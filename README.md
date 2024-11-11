@@ -5,7 +5,7 @@ Contact for demo and contribiton: gulerege.tr@gmail.com
 
 
 
-======!LEGAL WARNING FOR PUBLISHER AND CONTRIBUTERS!================
+======!LEGAL WARNING FOR PUBLISHER AND DISTRIBUTERS!================
 
 It is necessary to refferance to Harmony Browser, Ege Güler and the about section of Harmony Browser's info. about new distributions in case of new publishes by 3rd party developers.
 
